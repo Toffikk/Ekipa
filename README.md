@@ -8,5 +8,10 @@ Zasady:
 4. Jeśli wyjdzie kłótnia to inni próbują ją zatrzymać!
 5. A przede wszystkim ufamy sobie 🖤
 
-Za nie stosowanie się do zasad , grozi wywalenie z ekipy :(
+Dopiski :
 
+1. Za nie stosowanie się do zasad , grozi wywalenie z ekipy :(
+
+2. Mozna obrazac w swojej , jak ktos cie zaatakuje slowami
+
+3. Za rozkazywanie jest kara 
