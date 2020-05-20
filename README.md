@@ -12,6 +12,6 @@ Dopiski :
 
 1. Za nie stosowanie się do zasad , grozi wywalenie z ekipy :(
 
-2. Mozna obrazac w swojej , jak ktos cie zaatakuje slowami
+2. Mozna obrazac w swojej obronie , jak ktos cie zaatakuje slowami
 
 3. Za rozkazywanie jest kara 
