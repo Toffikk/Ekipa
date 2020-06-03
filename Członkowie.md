@@ -4,3 +4,4 @@ Maja
 Kacper
 Dawid
 Gosia
+Sojda
