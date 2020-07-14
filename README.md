@@ -30,8 +30,6 @@ Artur Kużaj (NeXsIaK)
 
 Kacper Nowak (NesaaK_)
 
-Gosia Kempny (Grosicki)
-
 Dawid Czerwiński (Strzelec072)
 
 Maja Nowak (MajixXD)
