@@ -22,13 +22,13 @@
 
 ***Członkowie:***
 
-Angelika Kużaj (Anglik)
+Angelika Kużaj (XxAnglik_)
 
-Artur Kużaj (NeXsIaK)
+Artur Kużaj (NeXsIaK_KoZaK)
 
 Łukasz Szczepanek (Luczkins)
 
-Kacper Nowak (NesaaK_)
+Kacper Nowak (ChaeYox)
 
 Dawid Czerwiński (Strzelec072)
 
