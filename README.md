@@ -1,6 +1,6 @@
 <div align=left>
-    <!-- ./logo/Kaktusniki_logo.png -->
-    <img src="./logo/Kaktusniki_logo.png" width="128">
+    <!-- ./logo/Logo_Kaktusniki.png -->
+    <img src="./logo/Logo_Kaktusniki.png" width="128">
     <br /><br />
 </div>
 
