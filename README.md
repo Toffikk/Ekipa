@@ -1,4 +1,4 @@
-<div align=right>
+<div align=left>
     <!-- ./logo/Kaktusniki_logo.png -->
     <img src="./logo/Kaktusniki_logo.png" width="128">
     <br /><br />
