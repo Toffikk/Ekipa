@@ -28,7 +28,7 @@
 
 6. Każdy członek Ekipy Kaktuśników obowiązkowo **MUSI MIEĆ** do innych członków ekipy , szacunek i wyrozumiałość.
 
-
+7. Każdy też musi mieć **CIERPLIWOŚC** i wiedzieć że nie wszystko się da odrazu i że czasem trzeba cierpliwie z kimś porozmawiać i wyjaśńić bez denerwowania się.
 
 ***Członkowie:***
 
