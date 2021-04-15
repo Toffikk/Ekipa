@@ -1,3 +1,9 @@
+<div align=center>
+    <!-- ./logo/Kaktusniki_logo.png -->
+    <img src="./logo/Kaktusniki_logo.png" width="512">
+    <br /><br />
+</div>
+
 # Ekipa
 **Zasady:**
 
