@@ -1,7 +1,13 @@
-Angelika
-Artur
-Maja
-Kacper
-Dawid
-Gosia
-Łukasz
+# Członkowie Ekipy Kaktuśników: 
+
+### Angelika 
+
+### Kacper
+
+### Dawid
+
+### Artur
+
+### Maja
+
+## ____________
