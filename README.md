@@ -26,8 +26,6 @@ Angelika Kużaj (XxAnglik_)
 
 Artur Kużaj (NeXsIaK_KoZaK)
 
-Łukasz Szczepanek (Luczkins)
-
 Kacper Nowak (ChaeYox)
 
 Dawid Czerwiński (Strzelec072)
