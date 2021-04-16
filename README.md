@@ -30,6 +30,9 @@
 
 7. Każdy też musi mieć **CIERPLIWOŚC** i wiedzieć że nie wszystko się da odrazu i że czasem trzeba cierpliwie z kimś porozmawiać i wyjaśńić bez denerwowania się.
 
+8. **ZABRONIONE** jest robienie/wysyłanie rzeczy, które wydają się obrzydliwe dla innych , tak samo **ZABRONIONE** jest zachowanie, które dla innych wydaje się obrzydliwe.
+
+
 ***Członkowie:***
 
 Angelika Kużaj (XxAnglik_).
