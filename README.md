@@ -5,7 +5,8 @@
 </div>
 
 # Ekipa
-**Zasady:**
+-----------------------
+### ***Początek Zasad***.
 
 🍧 Zasady! 🍧.
 1. Nie kłócimy się o byle co a, jeśli tak to proszę na priv 😉.
@@ -22,7 +23,7 @@
 
 3. Wszystkie próby wywołania kłotni , poprzez rozgadywanie nie prawdy/kłamstw jest zabronione.
 
-4. Nie ma takiego czegós jak "**Źle usłyszałem/am**" , jeśli już chce się o jakiś tematach rozmawiać , najpierw trzeba sprawdzić czy się dobrze usłyszało i czy te informacje są prawdziwe.
+4. Nie ma takiego czegós jak "**Źle usłyszałem/am**" lub "**Nie wiedziałem/am**" , jeśli już chce się o jakiś tematach rozmawiać , najpierw trzeba sprawdzić czy się dobrze usłyszało i czy te informacje są prawdziwe.
 
 5. Wszelkie zachowanie , które dla inncyh wydaje się nie miłe lub chamskie jest **ZABRONIONE**
 
@@ -32,7 +33,15 @@
 
 8. **ZABRONIONE** jest robienie/wysyłanie rzeczy, które wydają się obrzydliwe dla innych , tak samo **ZABRONIONE** jest zachowanie, które dla innych wydaje się obrzydliwe.
 
+9. **OBOWIĄZUJE WSZYSTKIE OSOBY CZYTANIE Z ZROZUMIENIEM** , żeby później nie było właśnie że nie było coś wyjaśnione lub/i żeby nie było kłótni. 
 
+10. **NIE MOŻNA** zdradzać żadnych sekretów, które ktoś ci powiedział , nikomu z naszej ekipy i spoza naszej ekipy, jeśli ten ktoś nie wyraził zgody.
+
+
+### ***KONIEC ZASAD***.
+
+
+---------------------
 ***Członkowie:***
 
 Angelika Kużaj (XxAnglik_).
