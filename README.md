@@ -23,7 +23,7 @@
 
 3. Wszystkie próby wywołania kłotni , poprzez rozgadywanie nie prawdy/kłamstw jest zabronione.
 
-4. ~~Nie ma takiego czegós jak "**Źle usłyszałem/am**" lub "**Nie wiedziałem/am**" , jeśli już chce się o jakiś tematach rozmawiać , najpierw trzeba sprawdzić czy się dobrze usłyszało i czy te informacje są prawdziwe.~~
+4. Każdy musi być traktowany na równości z innymi i jest zakaz wszelkiej faworyzacji.
 
 5. Wszelkie zachowanie , które dla inncyh wydaje się nie miłe lub chamskie jest **ZABRONIONE**
 
@@ -37,9 +37,18 @@
 
 10. **NIE MOŻNA** zdradzać żadnych sekretów, które ktoś ci powiedział , nikomu z naszej ekipy i spoza naszej ekipy, jeśli ten ktoś nie wyraził zgody.
 
+---------
 
-### ***KONIEC ZASAD***.
+## ***Wymagania dotyczące nowych członków***.
 
+### - Osoba, która chce dołączyć musi spełniać poniżśże kryteria:
+
+* Posiada umiejętność traktowania innych ludzi z szacunkiem i na równym poziomie
+* Nie jest młodsza od najmłodszego członka ekipy i nie jest starsza od najstarszego
+* Potrafi stosować się do zasad, które tutaj obowiązuja
+* Nie dyskriminuje innych członków ekipy, oraz również jest tolerancyjna
+* Jest w stanie pomagać w realizowaniu naszych wspólnych celów ekipy
+* Zachowuje się kulturalnie i nie wyzywa innych ani ich nie obraża
 
 ---------------------
 ***Członkowie:***
