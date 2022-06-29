@@ -25,7 +25,7 @@
 
 4. Każdy musi być traktowany na równości z innymi i jest zakaz wszelkiej faworyzacji.
 
-5. Wszelkie zachowanie , które dla inncyh wydaje się nie miłe lub chamskie jest **ZABRONIONE**
+5. Wszelkie zachowanie , które dla innych wydaje się nie miłe lub chamskie jest **ZABRONIONE**
 
 6. Każdy członek Ekipy Kaktuśników obowiązkowo **MUSI MIEĆ** do innych członków ekipy , szacunek i wyrozumiałość.
 
