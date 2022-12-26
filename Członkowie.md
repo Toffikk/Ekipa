@@ -4,8 +4,6 @@
 
 ### Kacper
 
-### Dawid
-
 ### Artur
 
 ### Maja
