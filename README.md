@@ -59,17 +59,7 @@ Artur Kużaj (NeXsIaK_KoZaK).
 
 Kacper Nowak (ChaeYox).
 
-Dawid Czerwiński (Strzelec072).
-
 Maja Nowak (MajixXD).
-
-Oliwia Kikla (Pancia/Kiklerka).
-
-Iga Bienek (-).
-
-Nikola Kowaleska (nikkolson12).
-
-
 
 ***Koniec***.
 
