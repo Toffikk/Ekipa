@@ -61,3 +61,5 @@ Kacper Nowak (ChaeYox).
 
 Maja Nowak (MajixXD).
 
+Dawid Czerwiński (pusielel)
+
