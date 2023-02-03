@@ -41,7 +41,7 @@
 
 ## ***Wymagania dotyczące nowych członków***.
 
-### - Osoba, która chce dołączyć musi spełniać poniżśże kryteria:
+### - Osoba, która chce dołączyć musi spełniać poniższe kryteria:
 
 * Posiada umiejętność traktowania innych ludzi z szacunkiem i na równym poziomie
 * Nie jest młodsza od najmłodszego członka ekipy i nie jest starsza od najstarszego
@@ -55,11 +55,9 @@
 
 Angelika Kużaj (XxAnglik_).
 
-Artur Kużaj (NeXsIaK_KoZaK).
+Artur Kużaj (NeXsIaK_Kozak).
 
 Kacper Nowak (ChaeYox).
 
 Maja Nowak (MajixXD).
-
-***Koniec***.
 
