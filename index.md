@@ -49,5 +49,6 @@
 * Nie dyskriminuje innych członków ekipy, oraz również jest tolerancyjna
 * Jest w stanie pomagać w realizowaniu naszych wspólnych celów ekipy
 * Zachowuje się kulturalnie i nie wyzywa innych ani ich nie obraża
- -----------
+-----------
  ***KONTAKT***
+ 
