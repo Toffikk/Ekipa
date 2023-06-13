@@ -1,3 +1,9 @@
+<div align=center>
+    <!-- ./logo/Logo_Kaktusniki.png -->
+    <img src="./logo/Logo_Kaktusniki.png" width="512">
+    <br /><br />
+</div>
+
 # Ekipa
 -----------------------
 ### ***Początek Zasad***.
@@ -45,4 +51,4 @@
 * Zachowuje się kulturalnie i nie wyzywa innych ani ich nie obraża
 -----------
  ***KONTAKT***
- Discord - 
+ 
