@@ -20,7 +20,7 @@ author: Gejlie
 ###############################################
 
 navbar-links:
-  O nas: "aboutme.md"
+  O nas: "aboutme"
   Platformy streamingowe:
     - My na spotify: "https://open.spotify.com/show/2dGpEwcKz6D3Tpo7MbtQoc"
 
