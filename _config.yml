@@ -20,7 +20,7 @@ author: Gejlie
 ###############################################
 
 navbar-links:
-  About Me: "O naszych coverach"
+  O nas: "aboutme.md"
   Platformy streamingowe:
     - My na spotify: "https://open.spotify.com/show/2dGpEwcKz6D3Tpo7MbtQoc"
 

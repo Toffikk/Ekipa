@@ -2,7 +2,7 @@
 layout: post
 title: Nasz pierwszy cover piosenki Genzie!
 subtitle: ps. kochamy nygah
-cover-img: /logo/Gejlie_logo.png
+thumbnail-img: /logo/Gejlie_logo.png
 tags: [cover, genzie, gejlie]
 ---
 
