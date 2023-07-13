@@ -21,9 +21,8 @@ author: Gejlie
 
 navbar-links:
   About Me: "O naszych coverach"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Platformy streamingowe:
+    - My na spotify: "https://open.spotify.com/show/2dGpEwcKz6D3Tpo7MbtQoc"
 
 ################
 # --- Logo --- #
@@ -125,9 +124,9 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: #FFF0F5"
+#navbar-col: #FFF0F5"
 navbar-text-col: "#000000"
-navbar-border-col: "#FFFFF0"
+#navbar-border-col: "#FFFFF0"
 page-col: "#000000"
 text-col: "#FFFAF0"
 link-col: "#B0C4DE"
