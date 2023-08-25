@@ -51,15 +51,7 @@
 * Zachowuje się kulturalnie i nie wyzywa innych ani ich nie obraża
 
 ---------------------
-***Członkowie:***
 
-Angelika Kużaj (XxAnglik_).
-
-Artur Kużaj (NeXsIaK_Kozak).
-
-Kacper Nowak (ChaeYox).
-
-Maja Nowak (MajixXD).
-
-Dawid Czerwiński (pusielel).
+*** Rozpad ekipy 25/26.08.2023.***
+Od tego dnia Ekipa Kaktuśników upadła i została rozwiązana.
 
