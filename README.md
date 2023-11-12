@@ -53,5 +53,7 @@
 ---------------------
 
 *** Rozpad ekipy 25/26.08.2023.***
-Od tego dnia Ekipa Kaktuśników upadła i została rozwiązana.
+Od tego dnia Ekipa Kaktuśników upadła i została wstepnie rozwiązana.
 
+
+## Odicjalna ostatnia rozprawa dot. rozwiazania ekipy jeszcze oczekuje zwolania w miedzyczasie stan ekipy jest zamrozony
